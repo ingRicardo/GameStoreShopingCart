@@ -1,0 +1,133 @@
+body {
+
+    background-color: lightblue;
+
+}
+
+#myHeader {
+  background-color: #eeeeec;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  
+} 
+#idhedtext
+{
+	
+	font-size: 40px;
+	
+}
+
+.headtitle
+{
+ 	height:40px;
+	background-color:yellow;
+	padding: 0px;
+	font-size: 20px;
+	background-color: lightblue;
+	
+}
+.sec1
+{
+  /*height:640px;*/
+  padding-left: 25px;
+  padding-top:5px;
+  background-color: #eeeeec;
+}
+
+.sec2
+{
+	padding: 20px;
+	height:150px;
+	background-color:#729fcf;
+	overflow-y:auto;
+}
+
+.sec3
+{
+	height:200px;
+	background-color:#eeeeec;
+		
+}
+
+.loginform
+{
+	height:200px;
+	background-color:#729fcf;
+	padding: 20px;
+	border: 0px;
+	margin: 0px;
+	color: white;
+}
+
+.registerform
+{
+	height:445px;
+	background-color:#729fcf;
+	padding: 20px;
+	border: 0px;
+	margin: 0px;
+	color: white;
+}
+
+.dataform
+{
+	
+	height:340px;
+	background-color:#729fcf;
+	padding: 20px;
+	border: 0px;
+	margin: 0px;
+	color: white;
+	font-size: 25px;
+}
+
+
+.foot
+{
+	height:50px;
+	background-color:#ee5252;
+		
+}
+
+.errclass
+{
+	color:  red;
+	font-size: 20px;
+}
+
+.nr
+{
+	
+	color: black;
+}
+
+.addbtn
+{
+	color: blue;
+}
+
+ a:hover {
+  background-color: yellow;
+  cursor: pointer; 
+}
+
+.pcla
+{
+	background-color: #babdb6;
+	
+}
+.delbtn
+{
+	color: red;
+	cursor: pointer; 
+	font-weight:bold;
+}
+.totPrice
+{
+	color: red;
+	 
+	font-weight:bold;
+}
+
+ 

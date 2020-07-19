@@ -1,0 +1,15 @@
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/service/GamesAllService.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/repository/UserRepository.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/controller/TodoController.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/model/Todo.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/SpringBootApp2Application.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/controller/RegistrationController.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/model/User.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/controller/WelcomeController.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/service/LoginService.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/service/TodoService.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/repository/GameRepository.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/model/Game.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/controller/LoginController.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/util/FunctionsUtil.java
+/home/ricardo/projects/springBootApp2/src/main/java/com/example/uabc/service/RegisterService.java

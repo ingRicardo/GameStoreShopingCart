@@ -1,0 +1,15 @@
+com/example/uabc/util/FunctionsUtil.class
+com/example/uabc/repository/GameRepository.class
+com/example/uabc/controller/TodoController.class
+com/example/uabc/repository/UserRepository.class
+com/example/uabc/model/Game.class
+com/example/uabc/service/LoginService.class
+com/example/uabc/controller/LoginController.class
+com/example/uabc/controller/WelcomeController.class
+com/example/uabc/model/User.class
+com/example/uabc/model/Todo.class
+com/example/uabc/controller/RegistrationController.class
+com/example/uabc/service/TodoService.class
+com/example/uabc/service/RegisterService.class
+com/example/uabc/service/GamesAllService.class
+com/example/uabc/SpringBootApp2Application.class
